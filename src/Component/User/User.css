@@ -1,3 +1,17 @@
+.user{
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+    margin-right: 10px;
+}
+.image{
+    width:50%;
+}
+.img{
+    height:80%;
+    width:80%;
+}
 .add-btn{
     background-color: goldenrod;
     width:130px;
