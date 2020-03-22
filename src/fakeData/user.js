@@ -248,7 +248,133 @@ var user=[
         "catchPhrase": "Centralized empowering task-force",
         "bs": "target end-to-end models"
       }
-    }
+    },
+    {
+      "id": 11,
+      "name": "Samantha Bauch",
+      "username": "Saman",
+      "email": "Saman@yesenia.net",
+      "img":"https://i.ndtvimg.com/i/2017-04/american-woman-saree-protest_650x400_51493448558.jpg",
+      "address": {
+        "street": "Douglas Extension",
+        "suite": "Suite 847",
+        "city": "McKenziehaven",
+        "zipcode": "59590-4157",
+        "geo": {
+          "lat": "-68.6102",
+          "lng": "-47.0653"
+        }
+      },
+      "phone": "1-463-123-4447",
+      "website": "ramiro.info",
+      "yearlyincome":250000,
+      "company": {
+        "name": "Romaguera-Jacobson",
+        "catchPhrase": "Face to face bifurcated interface",
+        "bs": "e-enable strategic applications"
+      }
+    },
+    {
+      "id": 12,
+      "name": "Leo Graham",
+      "username": "Bretham",
+      "email": "Sin@april.biz",
+      "img":"https://i.pinimg.com/236x/27/1b/bf/271bbfe7b702b8ecb8fd4b437c9a3f9a--instagram-repost-singer.jpg",
+      "address": {
+        "street": "Kulas Light",
+        "suite": "Apt. 556",
+        "city": "Gwenborough",
+        "zipcode": "92998-3874",
+        "geo": {
+          "lat": "-37.3159",
+          "lng": "81.1496"
+        }
+      },
+      "phone": "1-770-736-8031 x56442",
+      "website": "hildegard.org",
+      "yearlyincome":250000,
+      "company": {
+        "name": "Romaguera-Crona",
+        "catchPhrase": "Multi-layered client-server neural-net",
+        "bs": "harness real-time e-markets"
+      }
+    },
+    {
+      "id": 13,
+      "name": "Karina Lebsack",
+      "username": "Karianne",
+      "email": "Julianne@kory.org",
+      "img":"https://i.vippng.com/png/small/40-408939_college-girl-png-girl-on-computer-png.png",
+      "address": {
+        "street": "Hoeger Mall",
+        "suite": "Apt. 692",
+        "city": "South Elvis",
+        "zipcode": "53919-4257",
+        "geo": {
+          "lat": "29.4572",
+          "lng": "-164.2990"
+        }
+      },
+      "phone": "493-170-9623 x156",
+      "website": "kale.biz",
+      "yearlyincome":200000,
+      "company": {
+        "name": "Robel-Corkery",
+        "catchPhrase": "Multi-tiered zero tolerance productivity",
+        "bs": "transition cutting-edge web services"
+      }
+    },
+    {
+      "id": 14,
+      "name": "Rib Reichert",
+      "username": "Rib",
+      "email": "McDermott@dana.io",
+      "img":"https://image.shutterstock.com/image-photo/young-latin-american-man-portrait-260nw-405775168.jpg",
+      "address": {
+        "street": "Dayna Park",
+        "suite": "Suite 449",
+        "city": "Bartholomebury",
+        "zipcode": "76495-3109",
+        "geo": {
+          "lat": "24.6463",
+          "lng": "-168.8889"
+        }
+      },
+      "phone": "(775)976-6794 x41206",
+      "website": "conrad.com",
+      "yearlyincome":100000,
+      "company": {
+        "name": "Yost and Sons",
+        "catchPhrase": "Switchable contextually-based project",
+        "bs": "aggregate real-time technologies"
+      }
+    },
+    {
+      "id": 15,
+      "name": "Chelsey Kamren",
+      "username": "Kam",
+      "email": "Lucio@annie.ca",
+      "img":"https://cdn.shopify.com/s/files/1/0045/5104/9304/files/AC_ECOM_SITE_2020_REFRESH_1_INDEX_M2_THUMBS-V2-1.jpg?v=1581100935",
+      "address": {
+        "street": "Skiles Walks",
+        "suite": "Suite 351",
+        "city": "Roscoeview",
+        "zipcode": "33263",
+        "geo": {
+          "lat": "-31.8129",
+          "lng": "62.5342"
+        }
+      },
+      "phone": "(254)954-1289",
+      "website": "demarco.info",
+      "yearlyincome":115000,
+      "company": {
+        "name": "Keebler LLC",
+        "catchPhrase": "User-centric fault-tolerant solution",
+        "bs": "revolutionize end-to-end systems"
+      }
+    },
+    
   
 ];
 export default user;

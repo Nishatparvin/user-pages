@@ -4,10 +4,10 @@ import './FetchUser.css';
 import User from '../User/User';
 import Add from '../AddMember/Add';
 const Data = () => {
-    const first10=fakeData.slice(0,10);
+    //const first10=fakeData.slice(0,10);
     //console.log(first10);
    // const [products,setProducts]=useState(first10)
-    const [users,setUsers]=useState(first10);
+    const [users,setUsers]=useState(fakeData);
     const [add,setAdd]=useState([]);
 
     const handleAddMember=(user)=>{

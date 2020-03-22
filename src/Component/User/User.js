@@ -10,7 +10,7 @@ const User = (props) => {
         <div className="user">
 
             <div className="image"> 
-                <img className="img" src={img} alt=""/>
+                <img  src={img} className="img"alt=""/>
             </div>
             <div>
                 <h3>{id})Name:{name} </h3> 
